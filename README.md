@@ -20,9 +20,4 @@ Before starting this project, ensure you have the following prerequisites instal
 1. Create a new Go project directory:
 
 ```bash
-mkdir go-cache
-cd go-cache
-
-Initialize a Go module:
-```bash
-go mod init go-cache
+ curl localhost:8080/api\?q=san%20francisco -v 
